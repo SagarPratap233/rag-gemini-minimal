@@ -1,0 +1,13 @@
+wj:
+Employees can request reimbursements through the internal portal. 
+Reimbursements are processed within 7 working days.
+
+Onboarding Steps:
+1. Create your email account.
+2. Join the Slack workspace.
+3. Set up your development environment.
+4. Read the engineering best practices document.
+
+Refund Guidelines:
+Refunds are only applicable within 30 days of purchase. 
+Physical products must be returned in unused condition.

@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env
+
+# Chroma DB
+chroma_store/
+.cache/
+chromadb/
+*.duckdb
+*.parquet
+
+# OS
+.DS_Store
